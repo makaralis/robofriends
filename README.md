@@ -33,5 +33,5 @@ To fix a bug or enhance an existing module, follow these steps:
 
 ## Developer
 
-[Siddhant Sehgal](https://github.com/makaralis)
+[Alisa Makarova](https://github.com/makaralis)
 
