@@ -17,21 +17,5 @@
 
 ![search](https://user-images.githubusercontent.com/35633575/48636896-2bbd8c00-e9f2-11e8-9aba-38ce00699f55.png)
 
-### Development
 
-Want to contribute? Great!
-
-To fix a bug or enhance an existing module, follow these steps:
-
-- Fork the repo
-- Create a new branch (`git checkout -b improve-feature`)
-- Make the appropriate changes in the files
-- Add changes to reflect the changes made
-- Commit your changes (`git commit -m 'Improve feature'`)
-- Push to the branch (`git push origin improve-feature`)
-- Create a Pull Request
-
-## Developer
-
-[Alisa Makarova](https://github.com/makaralis)
 
